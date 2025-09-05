@@ -1,3 +1,5 @@
+# Claire Francis, Program1, September 4th, 2025	
+
 package FavoriteSaying;
 
 public class saying {
@@ -8,3 +10,4 @@ public class saying {
 	}
 
 }
+
